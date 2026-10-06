@@ -1,0 +1,6 @@
+{
+  "name": "BRO Barbearia - Agendamento Online",
+  "description": "Sistema moderno e minimalista de agendamento online de horários para a BRO Barbearia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
